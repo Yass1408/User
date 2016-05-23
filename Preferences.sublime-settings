@@ -5,7 +5,7 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_encoding": "Western (ISO 8859-1)",
 	"fallback_encoding": "Western (ISO 8859-1)",
-	"font_size": 12,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"

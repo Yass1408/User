@@ -5,8 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Bootstrap 3 Snippets",
 		"DocBlockr",
+		"EasyMotion",
 		"Emmet",
 		"FavoriteFiles",
 		"HTMLBeautify",
