@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"DocBlockr",
+		"Emmet",
+		"FavoriteFiles",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"Material Theme",
+		"OCaml",
+		"Package Control",
+		"PowerCursors",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Terminal",
+		"TrailingSpaces",
+		"View In Browser"
+	]
+}

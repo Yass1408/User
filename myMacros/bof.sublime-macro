@@ -1,0 +1,14 @@
+[
+	{
+		"args": null,
+		"command": "select_all"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": false
+		},
+		"command": "move"
+	}
+]

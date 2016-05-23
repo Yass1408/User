@@ -1,0 +1,17 @@
+[
+	{
+		"args":
+		{
+			"block": false
+		},
+		"command": "toggle_comment"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": true
+		},
+		"command": "move"
+	}
+]
